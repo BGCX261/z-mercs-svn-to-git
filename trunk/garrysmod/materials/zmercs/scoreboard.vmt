@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zmercs/scoreboard"
+	"$nolod" 1
+	"$translucent" 1
+}

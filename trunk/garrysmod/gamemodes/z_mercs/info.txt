@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"z_mercs"
+	"version"	"1.0"
+ 
+	"author_name"	"Wunce"
+	"author_email"	"I'm on facepunch, pm me!"
+	"author_url"	""
+ 
+	"icon"		""
+	"info"		"Plan. Co-operate. Survive."
+	"hide"		""
+}

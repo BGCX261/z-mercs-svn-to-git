@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zmercs/particles/wunce_particle_fire2"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
